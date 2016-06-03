@@ -50,3 +50,8 @@ gem 'rails_12factor'
 
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 gem 'puma'
+
+gem 'faker',                '1.4.2'
+
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
