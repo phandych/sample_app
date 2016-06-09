@@ -52,6 +52,8 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem 'puma'
 
 gem 'faker',                '1.4.2'
-
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
